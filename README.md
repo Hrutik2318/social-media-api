@@ -14,7 +14,7 @@ Functionalities of API:
 * Schema Validation
 
 Tech Stack:
-* Postgres
+* PostgreSQL
 * SQLAlchemy
 * Alembic
 * Azure
