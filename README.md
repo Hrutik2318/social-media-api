@@ -16,5 +16,6 @@ Functionalities of API:
 Tech Stack:
 * PostgreSQL
 * SQLAlchemy
+* Pydantic
 * Alembic
 * Azure
